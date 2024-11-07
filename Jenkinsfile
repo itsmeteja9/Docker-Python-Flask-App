@@ -2,7 +2,7 @@ pipeline {
 
     environment { 
 
-        registry = "itsmeteja9/python-docker" 
+        registry = "itsmeteja9/docker-python-flask-app" 
 
         registryCredential = 'dockerjenkinsintegration' 
 
